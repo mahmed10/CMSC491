@@ -1,0 +1,5 @@
+./dataset/CityScapes/leftImg8bit/train/aachen/aachen_000041_000000_leftImg8bit.png
+./dataset/CityScapes/leftImg8bit/train/aachen/aachen_000041_000001_leftImg8bit.png
+./dataset/CityScapes/leftImg8bit/train/aachen/aachen_000041_000002_leftImg8bit.png
+./dataset/CityScapes/leftImg8bit/train/aachen/aachen_000041_000003_leftImg8bit.png
+./dataset/CityScapes/leftImg8bit/train/aachen/aachen_000041_000004_leftImg8bit.png

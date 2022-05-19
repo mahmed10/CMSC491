@@ -1,0 +1,5 @@
+./test5_30segs_weather_4_spawn_1_roadTexture_1_P_None_C_None_B_None_WC_None/19-10-2018_14-44-11/RGB/000101.png
+./test5_30segs_weather_4_spawn_1_roadTexture_1_P_None_C_None_B_None_WC_None/19-10-2018_14-44-11/RGB/000102.png
+./test5_30segs_weather_4_spawn_1_roadTexture_1_P_None_C_None_B_None_WC_None/19-10-2018_14-44-11/RGB/000103.png
+./test5_30segs_weather_4_spawn_1_roadTexture_1_P_None_C_None_B_None_WC_None/19-10-2018_14-44-11/RGB/000104.png
+./test5_30segs_weather_4_spawn_1_roadTexture_1_P_None_C_None_B_None_WC_None/19-10-2018_14-44-11/RGB/000105.png
