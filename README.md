@@ -40,4 +40,4 @@ To run the code you need to download two things
 1. Open the Code_run.ipynb
 2. Follow the steps 
 
-## Sample output is provided in the Code_run.ipynb file 
+> Sample output is provided in the Code_run.ipynb file 
